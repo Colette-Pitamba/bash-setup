@@ -1,0 +1,3 @@
+# Bash Setup
+
+Current config
